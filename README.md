@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome 👋
+I'm Johnnie, 3d designe & programmer.
 
 <!--
 **j0hnn1e20/j0hnn1e20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
