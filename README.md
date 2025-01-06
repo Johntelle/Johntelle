@@ -20,4 +20,13 @@
 
 </details>
 
-[Check my website!](https://j0hnn1e20.github.io/)
+<details><summary>Social</summary>
+
+<div align='center'>
+  
+[WebSite](https://j0hnn1e20.github.io/)
+|
+[LinkTree](https://linktr.ee/j0hnn1e20)
+</div>
+  
+</details>
