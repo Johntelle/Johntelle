@@ -23,6 +23,9 @@ Meu Nome é Jonatas, tenho 17 anos, sou Designer 3D, estudo programação e esto
 ###### 2D Design
 - Adobe Photoshop [ ██ 50%]
 - Adobe Illustrator [ ██ 50%]
+###### Game Creation
+- Unity [ █ 25%]
+- Unreal [ █ 5%]
 
 </details>
 
