@@ -8,7 +8,11 @@ Meu Nome é Jonatas, tenho 17 anos, sou Designer 3D, estudo programação e esto
 
 <details><summary>Competências</summary>
 
-  ### Linguagens
+  ### Social
+- Trabalho em Equipe
+- Prestativo
+
+### Linguagens
 - HTML [ █ 25% ]
 - Java Script [ █ 25% ]
 - GTA3Script [ ██ 50% ]
