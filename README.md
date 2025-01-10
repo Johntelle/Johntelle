@@ -1,11 +1,5 @@
 ## Welcome
 
-<details><summary>Sobre Mim</summary>
-
-Meu Nome é Jonatas, tenho 17 anos, sou Designer 3D, estudo programação e estou cursando o Ensino Médio.
-
-</details>
-
 <details><summary>Competências</summary>
 
   ### Social
