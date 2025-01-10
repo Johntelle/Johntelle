@@ -26,14 +26,3 @@
 - Unreal [ █ 5%]
 
 </details>
-
-<details><summary>Social</summary>
-
-<div align='center'>
-  
-[WebSite](https://j0hnn1e20.github.io/)
-|
-[LinkTree](https://linktr.ee/j0hnn1e20)
-</div>
-  
-</details>
