@@ -1,5 +1,11 @@
 ## Welcome
 
+<details><summary>Sobre Mim</summary>
+
+Sou desenvolvedor de jogos.
+
+</details>
+
 <details><summary>Competências</summary>
 
   ### Social
@@ -22,5 +28,11 @@
 ###### Game Creation
 - Unity [ █ 25%]
 - Unreal [ █ 5%]
+
+</details>
+
+<details><summary>Social</summary>
+
+Discord: `@johntelle`
 
 </details>
