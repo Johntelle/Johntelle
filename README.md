@@ -15,12 +15,13 @@ Sou desenvolvedor de jogos.
 ### Linguagens
 - HTML [ █ 25% ]
 - Java Script [ █ 25% ]
+- C Sharp [ █ 25% ]
   
 ### Ferramentas
 
   ###### 3D Design
 - Blender [ ███ 75%]
-- 3DS Max [ █ 75%]
+- 3DS Max [ █ 25%]
 - Adobe Substance Painter [ ██ 50%]
 ###### 2D Design
 - Adobe Photoshop [ ██ 50%]
