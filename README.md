@@ -13,22 +13,25 @@ Sou desenvolvedor de jogos.
 - Prestativo
 
 ### Linguagens
-- HTML [ █ 25% ]
-- Java Script [ █ 25% ]
-- C Sharp [ █ 25% ]
+- HTML | Intermediário
+- Java Script | Básico
+- C Sharp | Básico
+- C | Básico
   
 ### Ferramentas
 
   ###### 3D Design
-- Blender [ ███ 75%]
-- 3DS Max [ █ 25%]
-- Adobe Substance Painter [ ██ 50%]
+- Blender | Avançado
+- 3DS Max | Básico
+- SketchUp | Básico
+- ZBrush | Básico
+- Adobe Substance Painter | Intermediário
 ###### 2D Design
-- Adobe Photoshop [ ██ 50%]
-- Adobe Illustrator [ ██ 50%]
+- Adobe Photoshop | Avançado
+- Adobe Illustrator | Avançado
 ###### Game Creation
-- Unity [ █ 25%]
-- Unreal [ █ 5%]
+- Unity | Intermediário
+- Unreal | Básico
 
 </details>
 
