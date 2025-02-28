@@ -2,7 +2,7 @@
 
 <details><summary>Sobre Mim</summary>
 
-Sou desenvolvedor de jogos.
+Meu nome é Jonatas, tenho 17 anos, atualmente sou desenvolvedor de jogos. Comecei em Design 3D por volta de 2022, fazendo modificações em jogos antigos de computador Em 2023, entrei para programação, até então não tendo feito nada relevante. Em 2024, comecei a trabalhar no desenvolvimento de jogos com a ***Code IT Game Studio***, uma equipe de Desenvolvedores Indie.
 
 </details>
 
