@@ -2,7 +2,7 @@
 
 <details><summary>Sobre Mim</summary>
 
-Meu nome é Jonatas, tenho 18 anos, atualmente sou estudante do ensino médio e gosto de estudar coisas da computação.
+Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio.
 
 </details>
 
